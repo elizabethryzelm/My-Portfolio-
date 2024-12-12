@@ -45,65 +45,44 @@ cd My-Portfolio
 3. Open index.html in your web browser.
 
 Usage
-Navigate through different sections using the header links.
-
-Explore the flip cards to learn more about me.
-
-Contact me using the details provided in the footer.
+- Navigate through different sections using the header links.
+- Explore the flip cards to learn more about me.
+-Contact me using the details provided in the footer.
 
 File Structure
-index.html: The main HTML file containing the structure of the website.
-
-styles.css: The CSS file for styling the website.
+- index.html: The main HTML file containing the structure of the website.
+- styles.css: The CSS file for styling the website.
 
 Detailed Code Overview
 HTML: index.html
-Head Section: Includes meta tags for charset and viewport, the title of the page, and a link to the CSS file.
-
-Body Section:
-
-Preloader: Displays a loading spinner.
-
-Header: Contains a logo and navigation menu with links to various sections of the site.
-
-Intro Section: Welcome message and brief introduction.
-
-Home Section: Detailed personal introduction, profile picture, and buttons for hiring and support.
-
-SDG Section: Information about Sustainable Development Goal 14.
-
-About Section: Flip cards that reveal more details about me.
-
-Contact Footer: Contains contact details and social media links.
+- Head Section: Includes meta tags for charset and viewport, the title of the page, and a link to the CSS file.
+- Body Section:
+   - Preloader: Displays a loading spinner.
+   - Header: Contains a logo and navigation menu with links to various sections of the site.
+   - Intro Section: Welcome message and brief introduction.
+   - Home Section: Detailed personal introduction, profile picture, and buttons for hiring and support.
+   - SDG Section: Information about Sustainable Development Goal 14.
+   - About Section: Flip cards that reveal more details about me.
+   - Contact Footer: Contains contact details and social media links.
 
 CSS: styles.css
-Global Styles: Includes basic styling for body, headings, and links.
-
-Preloader: Styles for the loading screen and spinner.
-
-Header: Styles for the navigation bar, logo, and links.
-
-Intro and Home Sections: Styles for the welcome message, profile picture, and buttons.
-
-SDG Section: Styles for the SDG information and link to learn more.
-
-About Section: Styles for the flip cards and their animations.
-
-Footer: Styles for the contact details, social media links, and overall footer layout.
+- Global Styles: Includes basic styling for body, headings, and links.
+- Preloader: Styles for the loading screen and spinner.
+- Header: Styles for the navigation bar, logo, and links.
+- Intro and Home Sections: Styles for the welcome message, profile picture, and buttons.
+- SDG Section: Styles for the SDG information and link to learn more.
+- About Section: Styles for the flip cards and their animations.
+- Footer: Styles for the contact details, social media links, and overall footer layout.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
 Feel free to reach out to me via email or social media:
-
-Email: elizabethryzelm@gmail.com
-
-Facebook: https://www.facebook.com/ryzeeeeeeeel.ryzel?mibextid=ZbWKwL
-
-Instagram: https://www.instagram.com/_doolsetnet.eli/profilecard/?igsh=d2cwY2tsbjhweTZ4
+- Email: elizabethryzelm@gmail.com
+- Facebook: https://www.facebook.com/ryzeeeeeeeel.ryzel?mibextid=ZbWKwL
+- Instagram: https://www.instagram.com/_doolsetnet.eli/profilecard/?igsh=d2cwY2tsbjhweTZ4
 
 Thank you for visiting my portfolio!
-
 
 This detailed README file provides a comprehensive overview of your project, including its features, setup instructions, file structure, detailed code overview, and contact information. Feel free to customize it further to better fit your specific needs and details. If you need any adjustments or additions, just let me know!
