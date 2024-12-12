@@ -44,16 +44,19 @@ bash
 cd My-Portfolio
 3. Open index.html in your web browser.
 
-Usage
+## Usage
+
 - Navigate through different sections using the header links.
 - Explore the flip cards to learn more about me.
 -Contact me using the details provided in the footer.
 
-File Structure
+## File Structure
+
 - index.html: The main HTML file containing the structure of the website.
 - styles.css: The CSS file for styling the website.
 
-Detailed Code Overview
+## Detailed Code Overview
+
 HTML: index.html
 - Head Section: Includes meta tags for charset and viewport, the title of the page, and a link to the CSS file.
 - Body Section:
@@ -74,10 +77,12 @@ CSS: styles.css
 - About Section: Styles for the flip cards and their animations.
 - Footer: Styles for the contact details, social media links, and overall footer layout.
 
-License
+## License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+## Contact
+
 Feel free to reach out to me via email or social media:
 - Email: elizabethryzelm@gmail.com
 - Facebook: https://www.facebook.com/ryzeeeeeeeel.ryzel?mibextid=ZbWKwL
