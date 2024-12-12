@@ -16,7 +16,7 @@ body html {
     top: 0; 
     right: 0; 
     bottom: 0; 
-    background: url('loading.gif'); 
+    background: url('My-Portfolio/loading.gif'); 
     background-size: cover;
     display: flex; 
     justify-content: center; 
